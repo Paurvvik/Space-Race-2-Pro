@@ -1,2 +1,2 @@
-# Space-Race-2-Pro
-Space Race 2 PRO
+# p5.play-boilerplate
+Boiler plate for p5.play
